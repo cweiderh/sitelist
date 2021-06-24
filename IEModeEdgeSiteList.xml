@@ -1,0 +1,15 @@
+<site-list version="7">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>06/24/2021 14:47:23</date-created>
+  </created-by>
+  <site url="prod.dcisapp.corp.delaware.gov/ICIS/login.aspx">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.nfl.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+</site-list>
